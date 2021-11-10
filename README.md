@@ -1,5 +1,13 @@
 # Trybe - Conteúdo
 
+Minha evolução como Desenvolvedora Web encontra-se aqui [Francisco-Monteiro.github.io](https://pito900.github.io/Pito900-github.io/)_
+
+Neste repositório constam todas as atividades de aprendizagem por mim desenvolvidas enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+
+_"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde uma das possibilidades de pagamento é quando a pessoa conseguir um emprego na área de tecnologia."_
+
+O programa conta com mais de 1.500 horas de aulas online, abordando Introdução ao Desenvolvimento de Software, Front-End, Back-End, Ciência da Computação, Engenharia de Software, Metodologias Ágeis e Habilidades Comportamentais.
+
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
 ##### [Bloco 1: Introdução - Unix & Bash]
@@ -22,7 +30,7 @@
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [X] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [X] 3-4: _HTML Semântico_
-- [x] 3-5: _[Projeto - Lessons Learned]
+- [x] 3-5: _[Projeto - Lessons Learned](https://pito900.github.io/Pito900-github.io/)_
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
@@ -30,8 +38,8 @@
 - [X] 4-1: _JavaScript - Primeiros passos_
 - [X] 4-2: _JavaScript - Array e loop For_
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
-- [] 4-4: _JavaScript - Objetos e Funções_
-- [] 4-5: _[Projeto - Playground Functions]()_
+- [ ] 4-4: _JavaScript - Objetos e Funções_
+- [ ] 4-5: _[Projeto - Playground Functions]()_
 
 ##### Bloco 5: JavaScrip: DOM, Eventos e Web Storage
 
