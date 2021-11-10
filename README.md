@@ -1,6 +1,6 @@
 # Trybe - Conteúdo
 
-Minha evolução como Desenvolvedora Web encontra-se aqui [Francisco-Monteiro.github.io](https://pito900.github.io/Pito900-github.io/)_
+Minha evolução como Desenvolvedora Web encontra-se aqui [Francisco-Monteiro.github.io](https://pito900.github.io/Pito900-github.io/)
 
 Neste repositório constam todas as atividades de aprendizagem por mim desenvolvidas enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
