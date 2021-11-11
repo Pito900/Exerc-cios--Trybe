@@ -226,8 +226,8 @@ console.log("Sua cesta possui: " + showingCesta.join(", "));
 //log no seguinte formato: "O morador do bloco 2 de nome Zoey Brooks mora no 1° andar, apartamento 101".
 
 
-// console.log(" O morador do bloco 2 de nome " + moradores.blocoDois[1].nome + "  " + moradores.blocoDois[1].sobrenome
-// + " mora no andar " + moradores.blocoDois[1].andar + " apartamento " + moradores.blocoDois[1].apartamento);
+console.log(" O morador do bloco 2 de nome " + moradores.blocoDois[1].nome + "  " + moradores.blocoDois[1].sobrenome
++ " mora no andar " + moradores.blocoDois[1].andar + " apartamento " + moradores.blocoDois[1].apartamento);
 
 //5 - Utilize o for para imprimir o nome completo de todos os moradores do bloco 1, acessando suas chaves nome e sobrenome , 
 //depois faça o mesmo para os moradores do bloco 2.
