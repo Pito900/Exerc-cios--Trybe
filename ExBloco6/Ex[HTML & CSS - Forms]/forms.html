@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <header class="form-header">
+        <h1>Formulário para cadastro de currículo</h1>
+        <p>Preencha os campos abaixo.</p>
+    </header>
+    <main>
+        <form id="cv-form" method="GET">
+              <fieldset>
+                  <div>
+                    <label for="name">Nome: </label>
+                    <input type="text" name="name" id="name" maxlength="40" required>
+                  </div>
+                  <div>
+                    <label for ="email">E-mail:</label>
+                    <input type ="text" name = "email" id="email" maxlength="50" required>
+                  </div>
+                  <div>
+                    <label for ="cpf">CPF:</label>
+                    <input type ="number" name = "cpf" id="cpf" maxlength="11" required>
+                  </div>
+                  <div>
+                    <label for ="endereco">Endereço:</label>
+                    <input type ="text" name = "endereco" id="enndereco" maxlength="28" required>
+                  </div>
+                  <div>
+                    <label for="state">Estado: </label>
+                    <select name="state" id="state" required>
+                      <option disabled selected value>Selecione seu estado</option>
+                    </select>
+                  </div>
+                  <div>
+                      <label for="ap">Apartamento</label>
+                      <input type="radio" name = "apOUcasa" id = "ap">
+                      <label for="casa">Casa</label>
+                      <input type="radio" name = "apOUcasa" id = "casa">
+                  </div>
+            </fieldset>
+            <fieldset>
+                <div>
+                <label for="textoArea">Resumo do currículo</label>
+                <textarea name="" id="textoArea" cols="30" rows="10" maxlength="1000"></textarea>
+                </div>
+                <div>
+                    <label for="desCargo">Descrição do cargo</label>
+                    <input type="text" id= "desCargo" maxlength="40">
+                </div>
+            </fieldset>
+        </form>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>

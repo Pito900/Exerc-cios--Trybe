@@ -207,15 +207,15 @@ function addTask() {
             alert('Error: Digite algo!');
         }
     }) 
-    // document.querySelector('#task-input').addEventListener('keyup', function(event) {
-    //     if (event.key === 'Enter' && document.querySelector('#task-input').value.length > 0) {
-    //       let itemLi = document.createElement('li');
-    //       itemLi.innerText = document.querySelector('#task-input').value;
+    document.querySelector('#task-input').addEventListener('keyup', function(event) {
+        if (event.key === 'Enter' && document.querySelector('#task-input').value.length > 0) {
+          let itemLi = document.createElement('li');
+          itemLi.innerText = document.querySelector('#task-input').value;
     
-    //       document.querySelector(".task-list").appendChild(itemLi);
-    //       document.querySelector('#task-input').value = '';
-    //     }
-    // });
+          document.querySelector(".task-list").appendChild(itemLi);
+          document.querySelector('#task-input').value = '';
+        }
+    });
 }
 
 addTask()
